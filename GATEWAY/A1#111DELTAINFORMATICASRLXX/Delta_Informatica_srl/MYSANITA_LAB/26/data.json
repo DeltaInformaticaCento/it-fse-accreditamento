@@ -1,0 +1,16 @@
+{
+    "appID": "MYSANITA_LAB",
+    "appVendor": "Delta Informatica srl",
+    "appVersion": "26",
+    "results": [
+        {
+            "files": [
+                "29_LAB.pdf"
+            ],
+            "id": 29,
+            "traceId": "...",
+            "ts": "...",
+            "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+        }
+    ]
+}
